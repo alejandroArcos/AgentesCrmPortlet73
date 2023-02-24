@@ -1,0 +1,4 @@
+Bundle-Name: AgentesCrmPortlet73
+Bundle-SymbolicName: com.tokio.crm.agentes73
+Bundle-Version: 1.0.0
+Export-Package: com.tokio.crm.agentes73.constants
